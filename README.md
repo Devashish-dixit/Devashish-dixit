@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devashish Dixit</h1>
 <h3 align="center">Your Algorithms and Data Science Homie</h3>
-<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif](https://img.freepik.com/free-vector/cute-astronaut-working-laptop-cartoon-vector-icon-illustration_138676-3472.jpg?w=740&t=st=1693122298~exp=1693122898~hmac=51935f3072753b13e3e4cdc61ee019ef5f73382a1721bd07e2fdc373d0969646)">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cute-astronaut-working-laptop-cartoon-vector-icon-illustration_138676-3472.jpg?w=740&t=st=1693122424~exp=1693123024~hmac=1eb54db5016da330b03d171391215b8d2ff36bb70363088840c37a7230f845df">
 
 - 🌱 I’m currently learning **Advanced Data Science Methodologies**
 
