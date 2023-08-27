@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Advanced Data Science Methodologies**
 
-- 💬 Ask me about **Python, EDA, Machine Learning, AI and Quantum Computing**
+- 💬 Ask me about **Python,Data Structures, EDA, Machine Learning and AI**
 
 - 📫 How to reach me **devashish244713@gmail.com**
 
