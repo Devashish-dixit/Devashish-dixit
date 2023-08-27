@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **devashish244713@gmail.com**
 
-- ⚡ Fun fact **I love Space & Photography**
+- ⚡ Fun fact **I love Space & Photography 🚀🌌📸**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
