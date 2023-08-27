@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devashish Dixit</h1>
 <h3 align="center">Your Algorithms and Data Science Homie</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cute-astronaut-working-laptop-cartoon-vector-icon-illustration_138676-3472.jpg?w=740&t=st=1693122424~exp=1693123024~hmac=1eb54db5016da330b03d171391215b8d2ff36bb70363088840c37a7230f845df">
+<img align="right" alt="Coding" width="400" src="https://ibb.co/X3jqGhG">
 
 - 🌱 I’m currently learning **Advanced Data Science Methodologies**
 
