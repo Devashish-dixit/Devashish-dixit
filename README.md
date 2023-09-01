@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **devashish244713@gmail.com**
 
-- ⚡ Fun fact **I like Photography**
+- ⚡ Fun fact **I love Astronomy & Photography**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
