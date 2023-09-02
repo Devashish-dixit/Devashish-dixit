@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/devashish-dixit-022251245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devashish-dixit-022251245" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/devashish-dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="devashish-dixit" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22158918/devashish-dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="devashish-dixit" height="30" width="40" /></a>
 <a href="https://instagram.com/devashishdixxit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devashishdixxit" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/devashishdixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devashishdixit" height="30" width="40" /></a>
 </p>
